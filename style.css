@@ -1,0 +1,32 @@
+body{
+    background-color: #AC7088;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+
+}
+.box{
+    min-width: 400px;
+    min-height: 400px;
+    background-color: #070A52;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+h3{
+    color:#D2C8C8;
+    text-align: center;
+}
+label,p{
+    color: #D2C8C8;
+
+}
+
+
